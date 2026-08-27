@@ -44,23 +44,3 @@ Currently learning and experimenting with:
 > More projects coming soon...
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Exyryuta&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exyryuta&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧠 Currently Learning
-
-```text
-HTML / CSS       ████████████████████ 100%
-JavaScript       ████████████░░░░░░░░  60%
-PHP              ███████████████░░░░░  75%
-MySQL            ████████████░░░░░░░░  60%
-Laravel          ██████░░░░░░░░░░░░░░  30%
-Git & GitHub     ██████████░░░░░░░░░░  50%
